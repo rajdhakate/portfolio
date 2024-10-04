@@ -27,7 +27,7 @@ const portfolioProjects = [
     year: "2022-2023",
     title: "NextLevel",
     results: [
-      { title: "React Native" },
+      { title: "React Native app" },
       { title: "Next gen UI/UX with animations" },
       { title: "Improved performance" },
     ],
