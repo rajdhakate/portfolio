@@ -11,7 +11,7 @@ import Link from "next/link";
 
 const portfolioProjects = [
   {
-    company: "Self Portfolio",
+    company: "Portfolio Website",
     year: "2024",
     title: "Single Page Portfolio",
     results: [
@@ -28,8 +28,8 @@ const portfolioProjects = [
     title: "NextLevel",
     results: [
       { title: "React Native app" },
-      { title: "Next gen UI/UX with animations" },
-      { title: "Improved performance" },
+      { title: "Modern UI/UX with animations" },
+      { title: "Optimized performance" },
     ],
     link: "https://nextlevel.app/",
     image: nextLevelPage,
@@ -39,9 +39,9 @@ const portfolioProjects = [
     year: "2020-2022",
     title: "Graphy",
     results: [
-      { title: "iOS - Swift, SwiftUI, UIKit" },
-      { title: "Added features in record time" },
-      { title: "Integrated in-house react native libraries" },
+      { title: "Swift, SwiftUI, UIKit" },
+      { title: "Rapid feature updates" },
+      { title: "In-house React Native library integration" },
     ],
     link: "https://graphy.com/",
     image: graphyPage,
@@ -51,9 +51,9 @@ const portfolioProjects = [
     year: "2019-2020",
     title: "OKTested",
     results: [
-      { title: "iOS - Swift" },
-      { title: "OTT app with gamification" },
-      { title: "Integrated Adsense and IMA Ads" },
+      { title: "Swift" },
+      { title: "OTT app with Gamification" },
+      { title: "Adsense and IMA ads integration" },
     ],
     link: "https://www.scoopwhoop.com/show/oktested/",
     image: oktestedPage,

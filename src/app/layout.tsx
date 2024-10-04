@@ -4,8 +4,9 @@ import "./globals.css";
 import { twMerge } from "tailwind-merge";
 
 export const metadata: Metadata = {
-  title: "Raj Dhakate -  Portfolio",
-  description: "Created with Next.js Tailwind CSS",
+  title: "Raj Dhakate - Developer, Designer, and Innovator",
+  description:
+    "Explore Raj Dhakate's portfolio showcasing expertise in full-stack development, UI/UX design, and innovative projects, crafted with Next.js and Tailwind CSS.",
 };
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
