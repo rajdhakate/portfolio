@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Calistoga } from "next/font/google";
 import "./globals.css";
 import { twMerge } from "tailwind-merge";
+import { Analytics } from "@vercel/analytics/react";
 
 export const metadata: Metadata = {
   title: "Raj Dhakate - Developer, Designer, and Innovator",
@@ -27,6 +28,7 @@ export default function RootLayout({
       className="scroll-smooth"
       style={{ scrollBehavior: "smooth" }}
     >
+      <Analytics />
       <body
         className={twMerge(
           inter.variable,
