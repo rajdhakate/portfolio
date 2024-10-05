@@ -104,7 +104,7 @@ export const AboutSection = () => {
   const constraintRef = useRef(null);
 
   return (
-    <section className="py-20 lg:py-28" id="aboutme">
+    <section className="py-20 lg:py-28" id="about">
       <div className="container">
         <SectionHeader
           eyeBrow="About Me"
