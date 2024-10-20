@@ -1,4 +1,5 @@
 import selfPortfolioPage from "@/assets/images/self-portfolio-page.png";
+import smartformsPage from "@/assets/images/smartforms.png";
 import graphyPage from "@/assets/images/graphy-page.png";
 import nextLevelPage from "@/assets/images/next-level-page.png";
 import oktestedPage from "@/assets/images/oktested-page.png";
@@ -10,6 +11,18 @@ import { Card } from "@/components/Card";
 import Link from "next/link";
 
 const portfolioProjects = [
+  {
+    company: "Dhakate.com",
+    year: "2024",
+    title: "Smartforms",
+    results: [
+      { title: "Node.js, Tailwind CSS, Clerk" },
+      { title: "Fully responsive" },
+      { title: "Fast fomrs with full control" },
+    ],
+    link: "https://smartforms.dhakate.com",
+    image: smartformsPage,
+  },
   {
     company: "Portfolio Website",
     year: "2024",
