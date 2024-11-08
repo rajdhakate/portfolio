@@ -151,21 +151,36 @@ export const HeroSection = () => {
             dream project.
           </p>
         </div>
-        <div className="flex flex-col md:flex-row justify-center items-center gap-4 mt-8">
-          <Link
-            href="#projects"
-            className="inline-flex items-center gap-2 border border-white/15 px-6 h-12 rounded-xl"
-          >
-            <span className="font-semibold">Explore My Work</span>
-            <ArrowDown className="size-4" />
-          </Link>
-          <a
-            href="mailto:engrdhakate@gmail.com?subject=My%20new%20idea&body=here%20it%20goes"
-            className="inline-flex items-center gap-2 border border-white bg-white px-6 h-12 rounded-xl"
-          >
-            <span>👋🏼</span>
-            <span className="text-gray-900 font-semibold">Let's Connect</span>
-          </a>
+        <div className="flex flex-col items-center justify-center">
+          <div className="mt-5">
+            <a
+              href="https://www.producthunt.com/posts/youmark?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-youmark"
+              target="_blank"
+            >
+              <img
+                src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=586873&theme=light"
+                alt="YouMark - Your&#0032;ultimate&#0032;YouTube&#0032;video&#0032;organizer&#0032;Notion&#0032;template | Product Hunt"
+                width="250"
+                height="54"
+              />
+            </a>
+          </div>
+          <div className="flex flex-col md:flex-row justify-center items-center gap-4 mt-8">
+            <Link
+              href="#projects"
+              className="inline-flex items-center gap-2 border border-white/15 px-6 h-12 rounded-xl"
+            >
+              <span className="font-semibold">Explore My Work</span>
+              <ArrowDown className="size-4" />
+            </Link>
+            <a
+              href="mailto:engrdhakate@gmail.com?subject=My%20new%20idea&body=here%20it%20goes"
+              className="inline-flex items-center gap-2 border border-white bg-white px-6 h-12 rounded-xl"
+            >
+              <span>👋🏼</span>
+              <span className="text-gray-900 font-semibold">Let's Connect</span>
+            </a>
+          </div>
         </div>
       </div>
     </section>

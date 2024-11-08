@@ -14,8 +14,9 @@ export const Header = () => {
           About
         </Link>
         <Link
-          href="mailto:engrdhakate@gmail.com?subject=My%20new%20idea&body=here%20it%20goes"
+          // href="mailto:engrdhakate@gmail.com?subject=My%20new%20idea&body=here%20it%20goes"
           className="nav-item bg-white text-gray-900 hover:bg-white/70 hover:text-gray-900"
+          href="#contact"
         >
           Contact
         </Link>

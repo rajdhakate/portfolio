@@ -1,14 +1,14 @@
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
 
 const links = [
-  // {
-  //   title: "Youtube",
-  //   href: "",
-  // },
-  // {
-  //   title: "Twitter",
-  //   href: "",
-  // },
+  {
+    title: "Gumroad",
+    href: "https://rajdhakate.gumroad.com/",
+  },
+  {
+    title: "ProductHunt",
+    href: "https://www.producthunt.com/@rajdhakate",
+  },
   {
     title: "Instagram",
     href: "https://instagram.com/yahi.hai.raaz/",

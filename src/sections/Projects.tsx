@@ -3,6 +3,7 @@ import smartformsPage from "@/assets/images/smartforms.png";
 import graphyPage from "@/assets/images/graphy-page.png";
 import nextLevelPage from "@/assets/images/next-level-page.png";
 import oktestedPage from "@/assets/images/oktested-page.png";
+import youmarkPage from "@/assets/images/youmark-page.png";
 import Image from "next/image";
 import CheckCircleIcon from "@/assets/icons/check-circle.svg";
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
@@ -11,6 +12,18 @@ import { Card } from "@/components/Card";
 import Link from "next/link";
 
 const portfolioProjects = [
+  {
+    company: "Dhakate.com",
+    year: "2024",
+    title: "YouMark",
+    results: [
+      { title: "Notion Template" },
+      { title: "Video bookmarking, joting with sharing" },
+      { title: "Private database" },
+    ],
+    link: "https://rajdhakate.gumroad.com/l/uaglw",
+    image: youmarkPage,
+  },
   {
     company: "Dhakate.com",
     year: "2024",
