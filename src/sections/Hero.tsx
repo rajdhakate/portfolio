@@ -174,7 +174,7 @@ export const HeroSection = () => {
               <ArrowDown className="size-4" />
             </Link>
             <a
-              href="mailto:engrdhakate@gmail.com?subject=My%20new%20idea&body=here%20it%20goes"
+              href="#contact"
               className="inline-flex items-center gap-2 border border-white bg-white px-6 h-12 rounded-xl"
             >
               <span>👋🏼</span>
