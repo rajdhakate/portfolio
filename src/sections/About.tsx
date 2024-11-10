@@ -12,6 +12,7 @@ import SwiftIcon from "@/assets/icons/swift.svg";
 import PythonIcon from "@/assets/icons/python.svg";
 import DjangoIcon from "@/assets/icons/django.svg";
 import MacOSIcon from "@/assets/icons/macos.svg";
+import NotionIcon from "@/assets/icons/notion.svg";
 import mapImage from "@/assets/images/map.png";
 import smileMemoji from "@/assets/images/memoji-smile.png";
 import { CardHeader } from "@/components/CardHeader";
@@ -52,6 +53,10 @@ const toolboxItems = [
   {
     title: "Github",
     iconType: GithubIcon,
+  },
+  {
+    title: "Notion",
+    iconType: NotionIcon,
   },
 ];
 
