@@ -2,6 +2,10 @@ import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
 
 const links = [
   {
+    title: "Notion Creator",
+    href: "https://www.notion.so/@rajdhakate",
+  },
+  {
     title: "Gumroad",
     href: "https://rajdhakate.gumroad.com/",
   },
