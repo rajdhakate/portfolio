@@ -154,12 +154,13 @@ export const HeroSection = () => {
         <div className="flex flex-col items-center justify-center">
           <div className="mt-5">
             <a
-              href="https://www.producthunt.com/posts/youmark?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-youmark"
+              href="https://www.producthunt.com/posts/smartforms-ai-form-generation?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-smartforms&#0045;ai&#0045;form&#0045;generation"
               target="_blank"
             >
               <img
-                src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=586873&theme=light"
-                alt="YouMark - Your&#0032;ultimate&#0032;YouTube&#0032;video&#0032;organizer&#0032;Notion&#0032;template | Product Hunt"
+                src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=620637&theme=light"
+                alt="SmartForms&#0032;&#0124;&#0032;AI&#0032;form&#0032;generation - Build&#0032;Forms&#0032;Fast&#0032;using&#0032;AI&#0032;✨&#0032;&#0045;&#0032;No&#0032;Code&#0032;Required&#0032;🚀 | Product Hunt"
+                // style="width: 250px; height: 54px;"
                 width="250"
                 height="54"
               />

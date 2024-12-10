@@ -18,10 +18,10 @@ const portfolioProjects = [
     title: "YouMark",
     results: [
       { title: "Notion Template" },
-      { title: "Video bookmarking, joting with sharing" },
+      { title: "Video bookmarking, joting with timestamps" },
       { title: "Private database" },
     ],
-    link: "https://rajdhakate.gumroad.com/l/uaglw",
+    link: "https://www.notion.so/templates/youmark",
     image: youmarkPage,
   },
   {
