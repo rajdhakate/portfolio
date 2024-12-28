@@ -146,7 +146,7 @@ export const HeroSection = () => {
             Building Expceptional User Experiences
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
-            I specialize in transforming designs into funtional, high-performing
+            I specialize in transforming designs into functional, high-performing
             applications, across various platforms 🖥️ 📱 🌏. Let's discuss your
             dream project.
           </p>

@@ -31,7 +31,7 @@ const portfolioProjects = [
     results: [
       { title: "Node.js, Tailwind CSS, Clerk" },
       { title: "Fully responsive" },
-      { title: "Fast fomrs with full control" },
+      { title: "Fast forms with full control" },
     ],
     link: "https://smartforms.dhakate.com",
     image: smartformsPage,
